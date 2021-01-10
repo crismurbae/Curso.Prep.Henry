@@ -85,6 +85,7 @@ function esPrimo(numero) {
   if (numero===0||numero===1){
     return false;
   }
+
   for (var i=2;i<numero;i++){
     return !(numero%i===0);
     }
