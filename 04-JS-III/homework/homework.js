@@ -130,7 +130,7 @@ function multiplicarArgumentos() {
   if (cantidadArgumentos===0) {
     return cantidadArgumentos;
   }
-  multiplicar = arguments [0];
+  var multiplicar = arguments [0];
   for (i=1;i<arguments.length;i++) {
     multiplicar = multiplicar * arguments [i]
   }
