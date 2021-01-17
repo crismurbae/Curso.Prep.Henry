@@ -1,0 +1,13 @@
+# Homework: Javascript V
+
+## Instrucciones
+
+* `prototype`:
+	Javascript tiene un diseño basado en prototipos, es decir, que todos los objetos tienen una referencia a otro objeto que es llamado su prototipo. Las funciones, métodos y propiedades que tiene un objeto salen de su prototipo. De esta manera no escribimos varias veces lo mismo y ahorramos memoria, porque en vez de crear todo de nuevo para cada objeto, cada objeto hacer referencia a las propiedades y métodos del prototipo. EN Javascript pueden haber varios prototipos hasta llegar a uno que es como el prototipo alfa, antes de ese no hay más, por ejemplo Objet.
+
+
+* _Constructors_ (de Clases):
+	Una clase es plantilla que tiene un constructor de objetos. Así se construyen objetos que comparten algunas de las mismas propiedades y métodos, y de esta forma no repetimos código, y no copiamos esa plantilla todas las veces que tengamos que usarla. Esta forma de escribir código en Javascript apareció con ES6, y es una copia de lenguajes orientados a objetos.
+
+
+
