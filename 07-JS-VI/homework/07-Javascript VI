@@ -1,0 +1,7 @@
+# Homework: Javascript VI
+
+
+* Funciones Callback:
+
+	First Class Functions significa que Javascript  a las funciones las trata como a cualquier otro objeto o cosas que haya en el lenguaje, eso quiere decir que la función se puede pasar por argumento, una función se puede retornar desde otra función, la función se puede guardar en variables, o dentro de un objeto, o dentro de un arreglo.
+	Esto es algo particular de Javascript, donde las funciones son algo aparte.
