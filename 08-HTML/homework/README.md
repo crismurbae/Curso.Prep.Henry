@@ -29,7 +29,7 @@ II Añade un poco de estilo
   C. Asignar a los otros divs la clase "divClass".
   D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
-  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.
+  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px. 
   G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
   H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
   I. Cambie el tamaño de la fuente para 'spanId' a 18px.
@@ -48,8 +48,8 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
 ```
 IV. Suba su trabajo a su repositorio de github`
 ```
-
-### Crédito adicional:
+ 
+### Crédito adicional:  **************
 >   Para hacer los extra credits, generalmente será necesario que investigue algunas cosas por su cuenta en Internet.
 
   * Establecer una imagen como fondo de toda la página
@@ -58,7 +58,7 @@ IV. Suba su trabajo a su repositorio de github`
   * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
   * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
 
-## Ejercicio II
+## Ejercicio II    *****************
 
 ```
 Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:

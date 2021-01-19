@@ -1,0 +1,21 @@
+	<style type="text/css">
+		
+		div {color:crimson;}
+
+		#spanId {
+			font-size: 18px;
+			margin: 50px;
+		}
+		
+		img {
+		     width:400px;}
+
+		#thirdDiv {
+			height: 600px; 
+			width: 500px;
+			background: lightsalmon;
+			padding: 50px;
+			border: 6px double firebrick;
+		}
+
+	</style>
